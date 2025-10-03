@@ -5,6 +5,16 @@ It allows users to input text and instantly get predictions of sentiment (positi
 
 ---
 
+## 📌 Features
+- User-Friendly Interface
+- Real-Time Sentiment Prediction
+- Text Preprocessing Automation
+- Multi-Model Support (during development)
+- Visualization of Results
+- ModelPersistence
+- Extendable Architecture
+- Export Functionality
+
 ## 📂 Project Structure
 
 ```plaintext
@@ -19,52 +29,43 @@ Senticore/
 └── README.md
 
 
-
+````
 ---
 
-## 🚀 Getting Started
+## 🚀 Installation & Setup
 
-## 1️⃣ Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/NeelaveniJonnada/Senticore.git
 cd Senticore
+````
+### 2. Create Virtual Environment (optional but recommended)
 
-## Create Virtual Environment (optional but recommended)
+```bash
 python -m venv venv
-venv\Scripts\activate   # On Windows
-source venv/bin/activate # On Mac/Linux
+source venv/bin/activate    # For Linux/macOS
+venv\Scripts\activate       # For Windows
 
-
----
+````
 ## 3️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
 
-
----
+````
 
 ## 4️⃣ Run the App
+```bash
 streamlit run app.py
+```
+Click on Local URL: http://localhost:8501
 
 ---
 
-##🛠 Requirements
+###  Output
 
-Main libraries:
+<img width="1904" height="920" alt="Screenshot 2025-09-11 161909" src="https://github.com/user-attachments/assets/b79894f1-cac0-482c-b51a-35ee5a4e5cac" />
 
-streamlit
 
-scikit-learn
-
-joblib
-
-nltk
-
-pandas
-
-numpy
-
-(see requirements.txt for full list)
---
 
 ## 📊 Training
 
@@ -77,32 +78,22 @@ Model training (SVM, Logistic Regression, etc.)
 Model evaluation (accuracy, confusion matrix)
 
 Saving the trained model/vectorizer
----
-## 🌟 Features
 
-User-friendly Streamlit interface
-
-Real-time sentiment prediction
-
-Re-trainable with custom datasets
-
-Extendable to other ML algorithms (Naive Bayes, Random Forest, etc.)
 
 ---
 
-##📌 Future Improvements
+## 💡 Future Enhancements
 
-Support for deep learning models
+* Support for deep learning models
+* Better visualization of results
+* Multi-language sentiment analysis
 
-Better visualization of results
-
-Multi-language sentiment analysis
-
-Deployment on Streamlit Cloud / Hugging Face Spaces
 ---
 
-##👩‍💻 Author
-```plaintext
-Neelaveni Jonnada
-B.Tech Information Technology
+## 👩‍💻 Author
+
+**Jonnada Neelaveni**
 Vishnu Institute of Technology
+[LinkedIn](https://www.linkedin.com/in/neelaveni-jonnada-901ba02ab/) 
+
+---
