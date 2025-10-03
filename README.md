@@ -65,7 +65,11 @@ Click on Local URL: http://localhost:8501
 
 <img width="1904" height="920" alt="Screenshot 2025-09-11 161909" src="https://github.com/user-attachments/assets/b79894f1-cac0-482c-b51a-35ee5a4e5cac" />
 
+<img width="1915" height="927" alt="Screenshot 2025-09-11 162007" src="https://github.com/user-attachments/assets/5ae53307-28a2-409a-8b89-91eff99d2488" />
 
+<img width="1899" height="914" alt="Screenshot 2025-09-11 162035" src="https://github.com/user-attachments/assets/d3b80fce-7f9e-4318-8618-bb127ff74532" />
+
+<img width="1911" height="923" alt="Screenshot 2025-09-11 162146" src="https://github.com/user-attachments/assets/a4c913c9-a638-4773-9a78-7cabd63bae9e" />
 
 ## 📊 Training
 
