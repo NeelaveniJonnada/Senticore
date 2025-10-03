@@ -48,7 +48,7 @@ streamlit run app.py
 ---
 
 ##🛠 Requirements
-```plaintext
+
 Main libraries:
 
 streamlit
@@ -67,7 +67,7 @@ numpy
 --
 
 ## 📊 Training
-```plaintext
+
 The notebook notebooks/Senticore.ipynb includes:
 
 Data preprocessing (tokenization, stopwords, vectorization)
@@ -79,7 +79,7 @@ Model evaluation (accuracy, confusion matrix)
 Saving the trained model/vectorizer
 ---
 ## 🌟 Features
-```plaintext
+
 User-friendly Streamlit interface
 
 Real-time sentiment prediction
@@ -91,7 +91,7 @@ Extendable to other ML algorithms (Naive Bayes, Random Forest, etc.)
 ---
 
 ##📌 Future Improvements
-```plaintext
+
 Support for deep learning models
 
 Better visualization of results
