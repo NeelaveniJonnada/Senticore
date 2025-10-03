@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+ENV/
+*.egg-info/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore datasets (optional if large)
+data/*.csv
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
