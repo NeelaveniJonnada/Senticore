@@ -6,16 +6,18 @@ It allows users to input text and instantly get predictions of sentiment (positi
 ---
 
 ## 📂 Project Structure
+
+```plaintext
 Senticore/
-│── app.py # Streamlit frontend
-│── senticore_model.pkl # Saved ML model
-│── senticore_vectorizer.pkl # Saved text vectorizer
-│── requirements.txt # Dependencies list
-│── data/
-│ └── MYDATASET.csv # Dataset used for training
-│── notebooks/
-│ └── Senticore.ipynb # Training + experimentation
-│── README.md # Project documentation
+├── app.py
+├── notebooks/
+│   └── Senticore(1).ipynb
+├── requirements.txt
+├── senticore_model.pkl
+├── senticore_vectorizer.pkl
+├── .gitignore
+└── README.md
+
 
 
 ---
